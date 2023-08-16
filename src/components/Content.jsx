@@ -141,13 +141,13 @@ class Content extends Component {
                     <FaMoneyBillAlt />
                   </span>
                   <span className="pros-title">Pagamento rápido e seguro</span>
-                  <span className="pros-subtitle">com ONL Pago</span>
+                  <span className="pros-subtitle">com Mercado Pago</span>
                 </div>
                 <div className="pros-card">
                   <span className="pros-icon">
                     <FaRegCreditCard />
                   </span>
-                  <span className="pros-title">Até 10 parcelas sem juros</span>
+                  <span className="pros-title">Até 10x sem juros</span>
                   <span className="pros-subtitle">você podendo mais!</span>
                 </div>
                 <div className="pros-card">
